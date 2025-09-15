@@ -1,0 +1,38 @@
+{
+  "name": "RSP_Data_Visualization_App",
+  "version": "1.0.0",
+  "description": "RSP Data Visualization App - Interactive dashboard for Retail Selling Price data across Indian Metro Cities",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VaibhavChaudhary3108/RSP_Data_Visualization_App.git"
+  },
+  "homepage": "https://github.com/VaibhavChaudhary3108/RSP_Data_Visualization_App#readme",
+  "keywords": [
+    "typescript",
+    "vite",
+    "echarts",
+    "data-visualization",
+    "india",
+    "fuel-prices",
+    "niti-aayog",
+    "responsive-design",
+    "web-app",
+    "data-analysis"
+  ],
+  "author": "Vaibhav Chaudhary",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview",
+    "deploy": "npm run build && npx vercel --prod"
+  },
+  "dependencies": {
+    "echarts": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.4.20"
+  }
+}
