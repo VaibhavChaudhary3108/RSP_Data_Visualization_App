@@ -9,7 +9,7 @@ A modern, interactive web application for visualizing Retail Selling Price (RSP)
 
 ## 🚀 Live Demo
 
-**Deployment URL:** [https://rsp-data-visualization-app.vercel.app](https://rsp-data-visualization-app.vercel.app)
+**Deployment URL:** [https://rsp-data-visualization-app-q1nj.vercel.app](https://rsp-data-visualization-app-q1nj.vercel.app)
 
 **GitHub Repository:** [https://github.com/VaibhavChaudhary3108/RSP_Data_Visualization_App](https://github.com/VaibhavChaudhary3108/RSP_Data_Visualization_App)
 
