@@ -101,3 +101,6 @@ dist-ssr/
 *.njsproj
 *.sln
 *.sw?
+
+# Google App Engine generated folder
+appengine-generated/
