@@ -22,9 +22,9 @@
   ],
   "author": "Vaibhav Chaudhary",
   "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite build",
-    "preview": "npx vite preview",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "deploy": "npm run build && npx vercel --prod"
   },
   "dependencies": {
