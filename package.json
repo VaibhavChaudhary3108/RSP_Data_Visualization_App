@@ -23,9 +23,10 @@
   "author": "Vaibhav Chaudhary",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node build.js",
     "preview": "vite preview",
-    "deploy": "npm run build && npx vercel --prod"
+    "deploy": "npm run build && npx vercel --prod",
+    "vercel-build": "node build.js"
   },
   "dependencies": {
     "echarts": "^5.4.3"
